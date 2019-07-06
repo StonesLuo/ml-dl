@@ -1,11 +1,11 @@
 # Basic
 title: StonesLuo
 subtitle: Laziness is the Sin
-welcome_message: <a href="https://github.com/StonesLuo" target="_blank">Blog Repo</a>
+welcome_message: <a href="https://github.com/StonesLuo/stonesluo.github.io" target="_blank">Blog Repo</a>
 description: CV硕士研究生,在读
 # creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://stonesluo.github.io"
+url: "https://stonesluo.github.io/ml-dl"
 
 permalink: /:year/:month/:title/
 
@@ -18,11 +18,11 @@ highlighter: rouge
 # The blog button should not be removed.
 blog_button:
     title: Blogs
-    description: Visit Blogs
+    description: Visit blogs
 
 # Navigation buttons in the front page.
 nav:
-        - {title: CS Basic, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/cs-basic/#blog'}
+    - {title: CS-Basic, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/cs-basic/#blog'}
     - {title: ML&DL, description: Blogs on ML&DL, url: 'https://stonesluo.github.io/ml-dl/#blog'}
     - {title: Algorithm, description: Blogs on Algorithm, url: 'https://stonesluo.github.io/algor/#blog'}
 
